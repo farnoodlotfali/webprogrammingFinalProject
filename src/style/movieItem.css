@@ -1,0 +1,31 @@
+.movieItem {
+  border: 3px solid rgb(10, 42, 78);
+  box-shadow: 0 5px 10px gray;
+}
+.movieItem .info {
+  margin-left: 15px;
+}
+.info a {
+  color: white;
+  text-decoration: none;
+}
+.movieItem .info .title {
+  font-size: 22px;
+  font-weight: bold;
+}
+.movieItem .info .year {
+  font-size: 18px;
+}
+.movieItem .info .desc {
+  font-size: 18px;
+}
+
+.movieItemGrid {
+  border: 3px solid rgb(17, 49, 87);
+  box-shadow: 0 5px 10px gray;
+}
+
+.movieItemGrid .image {
+  width: 250px;
+  height: 300px;
+}

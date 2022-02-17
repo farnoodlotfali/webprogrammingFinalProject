@@ -1,0 +1,25 @@
+.header {
+  background-color: rgba(0, 0, 0, 0.555);
+}
+
+.header .title {
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  cursor: default;
+}
+.header .links {
+  font-size: 15px;
+  letter-spacing: 3px;
+  cursor: pointer;
+}
+
+.header .links a {
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.header .links a:hover {
+  text-decoration: underline;
+}

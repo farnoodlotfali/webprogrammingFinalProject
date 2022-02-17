@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+In order to use: <code>php -S 127.0.0.1:8001</code>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
